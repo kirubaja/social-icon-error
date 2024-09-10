@@ -77,8 +77,9 @@
 
         </a>
         <a href="https://x.com/i/flow/login?redirect_after_login=%2FTixBox">
-        <i class="fa-brands fa-x-twitter"></i>
-
+        <i class="fa-brands fa-square-x-twitter" style="font-size: 25px;"></i>
+       
+       
         
 
         </a>
